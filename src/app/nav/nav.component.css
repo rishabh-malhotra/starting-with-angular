@@ -1,13 +1,17 @@
-.facebook-logo{
-    left:0;
-}
+
 #nav{
     width: 100%;
     background-color: #3b5998 !important;
     height: 100px;
+    color:aliceblue;
 }
 
-.login{
-    margin:10px;
-    position: relative;
+.back{
+    margin-top:35px;
+    padding: 5px;
+}
+
+input{
+    color:black;
+    margin: 5px;
 }

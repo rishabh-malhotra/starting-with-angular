@@ -1,0 +1,35 @@
+.parag{
+    font-size: 11px;
+}
+
+.back{
+    background-color: #dfe3ee;
+}
+
+input{
+    margin:5px;
+    border:1px solid #bdc7d8;
+    display: inline-block;
+}
+.heading{
+    color:rgb(3, 98, 161);
+    font-weight: bold;
+    margin-left: 50px;
+    font-size: 20px;
+    line-height: 29px;
+    color:#0e385f;
+    margin-top: 40px;
+    width: 450px;
+}
+
+img{
+    margin-top:40px
+}
+
+.formp{
+    background-color: #dfe3ee;
+}
+
+.imgdiv{
+    display: block;
+}

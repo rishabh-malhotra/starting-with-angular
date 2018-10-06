@@ -1,0 +1,21 @@
+.par{
+    word-spacing: 20px;
+    text-align: center;
+    color:rgb(6, 91, 160);
+    margin: 10px;
+}
+.para{
+    word-spacing: 40px;
+    font-size: 12px;
+    text-align: center;
+    color:rgb(6, 91, 160);
+    margin: 20px;
+}
+.line{
+    float:left;
+    width:100%;
+    border-top: 1px solid #0b8e97;
+    
+    padding-top: 0.15em;
+    padding-bottom: 0.15em;
+}
